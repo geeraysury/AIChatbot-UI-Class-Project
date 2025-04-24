@@ -1,6 +1,0 @@
-<script>start("/Users/onyo/Downloads/glow-on-call copy/resume_genie/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("venv","venv",1,256,"256 B",1745536575,"4/24/25, 7:16:15 PM");</script>
-<script>addRow(".gitattributes",".gitattributes",0,1519,"1.5 kB",1745535966,"4/24/25, 7:06:06 PM");</script>
-<script>addRow("app.py","app.py",0,10513,"10.3 kB",1745537280,"4/24/25, 7:28:00 PM");</script>
-<script>addRow("requirements.txt","requirements.txt",0,58,"58 B",1745536565,"4/24/25, 7:16:05 PM");</script>
