@@ -1,0 +1,5 @@
+gradio==4.14.0
+groq
+SpeechRecognition
+pydub
+ffmpeg-python
