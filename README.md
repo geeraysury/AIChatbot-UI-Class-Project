@@ -3,5 +3,11 @@ To design and implement a user-friendly AI chatbot using Gradio and Groq APIs th
 
 Powered by: Gradio, Groq API
 
-How to run the project:
-1. 
+**How to run the project:**
+1. In your terminal, run:
+- git clone https://github.com/geeraysury/AIChatbot-UI-Class-Project.git
+- cd resume_genie
+- pip install -r requirements.txt
+- python app.py
+
+2. Open the local host link that the terminal will provide after completing step 1
